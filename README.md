@@ -43,7 +43,7 @@ Fitur pembelajaran abjad Bahasa Indonesia dengan ilustrasi hewan.
 
 Fitur kuis interaktif dengan penerapan metode Linear Congruent Method (LCM) untuk mengacak urutan soal.
 
-![Quiz](screenshots/quiz.jpeg)
+![Quiz](screenshots/Quiz.jpeg)
 
 ## 📥 Download Application
 
