@@ -25,25 +25,25 @@ Aplikasi ini dikembangkan menggunakan Flutter dengan fitur pembelajaran abjad da
 
 Halaman pembuka aplikasi dengan tombol Mulai.
 
-![Splash Screen](screenshots/splashscreen.jpeg)
+<img src="screenshots/splashscreen.jpeg" width="400" alt="Splash Screen" />
 
 ### 2. Main Menu
 
 Halaman utama yang menyediakan navigasi ke fitur pembelajaran dan kuis.
 
-![Main Menu](screenshots/mainmenu.jpeg)
+<img src="screenshots/MainMenu.jpeg" width="400" alt="Main Menu" />
 
 ### 3. Abjad Learning
 
 Fitur pembelajaran abjad Bahasa Indonesia dengan ilustrasi hewan.
 
-![Abjad Learning](screenshots/AbjadLearning.jpeg)
+<img src="screenshots/AbjadLearning.jpeg" width="400" alt="Abjad Learning" />
 
 ### 4. Interactive Quiz
 
 Fitur kuis interaktif dengan penerapan metode Linear Congruent Method (LCM) untuk mengacak urutan soal.
 
-![Quiz](screenshots/Quiz.jpeg)
+<img src="screenshots/Quiz.jpeg" width="400" alt="Quiz LCM" />
 
 ## 📥 Download Application
 
